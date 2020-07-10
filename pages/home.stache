@@ -206,7 +206,7 @@
 						<img src="/static/images/control.png" style="width: 105px;">
 					</p>
 
-					You have <b>full control</b> about the service. <a href="mailto:cfuchsb@umich.edu"> Write us</a> to get more information.
+					{{! You have <b>full control</b> about the service. <a href="mailto:cfuchsb@umich.edu"> Write us</a> to get more information. }}
 
 				</div>
 			</div>
